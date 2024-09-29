@@ -78,5 +78,5 @@ The project successfully implemented two machine learning models, Random Forest 
 - [Mihir Dalvi](https://github.com/mihirda-7)
 - [Sudarshan Sangle]()
 - [Vaishnavi Kapde](https://github.com/Vaishnavi1041)
-- [Shoaib Sayed]()
+- [Shoaib Sayed](https://github.com/74903ShoaibSayed)
 - [Manish Parate](https://github.com/Manis7733)
