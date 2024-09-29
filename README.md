@@ -71,3 +71,12 @@ Here is the link to the dataset reffer : https://www.kaggle.com/datasets/ealtman
 
 ## Outcome of Project
 The project successfully implemented two machine learning models, Random Forest and Logistic Regression, to detect money laundering transactions. The models achieved high accuracy, with **Random Forest reaching 96%** and **Logistic Regression achieving 97%**, demonstrating the effectiveness of these techniques in identifying illicit activities within financial transactions.
+
+
+## Our Contributers
+- [Vedant Mahale](https://github.com/VedantMahale30)
+- [Mihir Dalvi](https://github.com/mihirda-7)
+- [Sudarshan Sangle]()
+- [Vaishnavi Kapde](https://github.com/Vaishnavi1041)
+- [Shoaib Sayed]()
+- [Manish Parate]()
